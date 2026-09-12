@@ -1,7 +1,7 @@
 # Published by gtmux's release workflow. DO NOT EDIT.
 cask "gtmux-app" do
-  version "1.0.16"
-  sha256 "00f4268d3f1d6efc1e674fc55e1f25de46d2a47d92f3e6e77ea96e0546bb8969"
+  version "1.0.17"
+  sha256 "0207f6b5c4850b6732caa6d71e50ad61bbdc7cd863464fbd7f8b19ca649f9876"
 
   url "https://github.com/chenchaoyi/gtmux/releases/download/v#{version}/Gtmux-#{version}-macos.zip"
   name "Gtmux"
